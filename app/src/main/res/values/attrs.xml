@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ServiceView">
+        <attr name="bike" format="boolean"/>
+        <attr name="address" format="string"/>
+        <attr name="lat" format="string"/>
+        <attr name="lng" format="string"/>
+        <attr name="fav" format="boolean"/>
+    </declare-styleable>
+</resources>
